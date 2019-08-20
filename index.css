@@ -21,15 +21,14 @@ body {
   height: 200px;
   border-radius: 50%;
   box-shadow: 5px 5px 3px black;
-  margin-top: 50px;
 }
 
 .heading {
   font-family: 'Luckiest Guy', cursive;
   font-size: 50px;
   color: #f5d742;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .heading_img {
